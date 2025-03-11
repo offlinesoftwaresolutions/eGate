@@ -1,7 +1,7 @@
 # eGate
 Offline MDM for Android
 
-Current version: 1.21
+Current version: 1.22
 
 Click on [here](https://github.com/offlinesoftwaresolutions/eGate/releases/latest) to get the latest version
 
