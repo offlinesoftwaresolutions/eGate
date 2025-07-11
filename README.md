@@ -8,7 +8,7 @@ Click on [here](https://github.com/offlinesoftwaresolutions/eGate/releases/lates
 Buy your license [here](https://payhip.com/b/vxf1i)
 
 
-Need help installing, here's a great guide written up by [@DonBot] (https://forums.jtechforums.org/u/DonBot). Original post [here] (https://forums.jtechforums.org/t/how-to-install-egate-guide/689).
+Need help installing, here's a great guide written up by [@DonBot](https://forums.jtechforums.org/u/DonBot). Original post [here](https://forums.jtechforums.org/t/how-to-install-egate-guide/689).
 This guide will walk you through installing and activating eGate on your Android device using ADB.
 
 What You’ll Need
