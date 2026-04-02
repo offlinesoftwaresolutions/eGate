@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/offlinesoftwaresolutions/eGate/main/app/src/main/res/drawable/designer.webp" alt="eGate Logo" width="120" />
+<img src="https://raw.githubusercontent.com/offlinesoftwaresolutions/eGate/main/assets/egate-logo.webp" alt="eGate Logo" width="120" />
 
 <br><br>
 
