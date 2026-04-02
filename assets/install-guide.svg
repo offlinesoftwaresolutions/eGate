@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0c1929"/><stop offset="100%" stop-color="#0f2440"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="100" rx="14" fill="url(#bg)" stroke="#1e3a5f" stroke-width="1"/>
+  <!-- book icon -->
+  <g transform="translate(30, 28)">
+    <rect x="4" y="2" width="36" height="40" rx="4" fill="none" stroke="#38bdf8" stroke-width="2"/>
+    <line x1="22" y1="2" x2="22" y2="42" stroke="#38bdf8" stroke-width="2"/>
+    <line x1="28" y1="14" x2="36" y2="14" stroke="#38bdf8" stroke-width="1.5" opacity="0.5"/>
+    <line x1="28" y1="20" x2="34" y2="20" stroke="#38bdf8" stroke-width="1.5" opacity="0.5"/>
+    <line x1="28" y1="26" x2="36" y2="26" stroke="#38bdf8" stroke-width="1.5" opacity="0.5"/>
+    <line x1="8" y1="14" x2="18" y2="14" stroke="#38bdf8" stroke-width="1.5" opacity="0.5"/>
+    <line x1="8" y1="20" x2="16" y2="20" stroke="#38bdf8" stroke-width="1.5" opacity="0.5"/>
+    <line x1="8" y1="26" x2="18" y2="26" stroke="#38bdf8" stroke-width="1.5" opacity="0.5"/>
+  </g>
+  <text x="90" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="white">Need help installing?</text>
+  <text x="90" y="65" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#94a3b8">Check out the step-by-step installation guide written by @DonBot</text>
+  <!-- arrow -->
+  <text x="850" y="52" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#38bdf8">&#8594;</text>
+</svg>

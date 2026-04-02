@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="320" fill="none">
+  <defs>
+    <linearGradient id="priceBg" x1="0" y1="0" x2="440" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0f172a"/><stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="440" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38bdf8"/><stop offset="50%" stop-color="#818cf8"/><stop offset="100%" stop-color="#2ea44f"/>
+    </linearGradient>
+  </defs>
+  <rect width="440" height="320" rx="18" fill="url(#border)"/>
+  <rect x="2" y="2" width="436" height="316" rx="16" fill="url(#priceBg)"/>
+  <text x="220" y="50" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#64748b" letter-spacing="3">LICENSE</text>
+  <text x="177" y="105" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#64748b" dy="-15">$</text>
+  <text x="220" y="105" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="white">40</text>
+  <text x="220" y="130" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#94a3b8">one-time in-app purchase</text>
+  <line x1="120" y1="148" x2="320" y2="148" stroke="#1e3a5f" stroke-width="1"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#cbd5e1">
+    <text x="140" y="178"><tspan fill="#4ade80" font-size="14">&#10003;</tspan>  All features included</text>
+    <text x="140" y="204"><tspan fill="#4ade80" font-size="14">&#10003;</tspan>  Free updates forever</text>
+    <text x="140" y="230"><tspan fill="#4ade80" font-size="14">&#10003;</tspan>  No subscription</text>
+    <text x="140" y="256"><tspan fill="#4ade80" font-size="14">&#10003;</tspan>  No hidden fees</text>
+    <text x="140" y="282"><tspan fill="#4ade80" font-size="14">&#10003;</tspan>  No cloud dependency</text>
+  </g>
+</svg>
