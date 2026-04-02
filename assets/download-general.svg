@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="190" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="280" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0c1929"/><stop offset="100%" stop-color="#0f2440"/>
+    </linearGradient>
+  </defs>
+  <rect width="280" height="190" rx="14" fill="url(#bg)" stroke="#1e3a5f" stroke-width="1"/>
+  <rect x="0" y="0" width="280" height="4" rx="2" fill="#4ade80"/>
+  <!-- android icon -->
+  <g transform="translate(20, 26)" fill="#4ade80">
+    <rect x="3" y="10" width="18" height="14" rx="3"/>
+    <rect x="7" y="3" width="2" height="6" rx="1"/><rect x="15" y="3" width="2" height="6" rx="1"/>
+    <circle cx="8" cy="15" r="1.5" fill="#0f2440"/><circle cx="16" cy="15" r="1.5" fill="#0f2440"/>
+  </g>
+  <text x="55" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="white">General APK</text>
+  <text x="55" y="59" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b">Android  &#8226;  v1.38</text>
+  <text x="20" y="95" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#94a3b8">Standard eGate build for most</text>
+  <text x="20" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#94a3b8">Android devices.</text>
+  <rect x="20" y="164" width="100" height="8" rx="4" fill="#4ade80" opacity="0.1"/>
+  <text x="70" y="172" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="8" fill="#4ade80" opacity="0.6">CLICK TO DOWNLOAD</text>
+</svg>
