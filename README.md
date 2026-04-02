@@ -32,6 +32,12 @@
 <img src="https://raw.githubusercontent.com/offlinesoftwaresolutions/eGate/main/assets/download-lgclassic.svg" alt="Download LG Classic APK" width="280" />
 </a>
 
+<br><br>
+
+<a href="https://forums.jtechforums.org/t/how-to-install-egate-guide/689">
+<img src="https://raw.githubusercontent.com/offlinesoftwaresolutions/eGate/main/assets/install-guide.svg" alt="Installation Guide" width="900" />
+</a>
+
 <br><br><br>
 
 <h2>Features</h2>
@@ -43,12 +49,6 @@
 <br><br><br>
 
 <img src="https://raw.githubusercontent.com/offlinesoftwaresolutions/eGate/main/assets/pricing.svg" alt="eGate Pricing" width="440" />
-
-<br><br><br>
-
-<a href="https://forums.jtechforums.org/t/how-to-install-egate-guide/689">
-<img src="https://raw.githubusercontent.com/offlinesoftwaresolutions/eGate/main/assets/install-guide.svg" alt="Installation Guide" width="900" />
-</a>
 
 <br><br>
 
