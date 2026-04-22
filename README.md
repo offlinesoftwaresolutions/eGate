@@ -14,21 +14,21 @@
 
 <br>
 
-<a href="https://github.com/offlinesoftwaresolutions/eGate/releases/download/1.38/eGateHelper-1.38.0.exe">
+<a href="https://github.com/offlinesoftwaresolutions/eGate/releases/download/1.39/eGateHelper-1.39.0.exe">
 <img src="https://raw.githubusercontent.com/offlinesoftwaresolutions/eGate/main/assets/download-helper.svg" alt="Download eGateHelper" width="280" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/offlinesoftwaresolutions/eGate/releases/download/1.38/app-general-release.apk">
+<a href="https://github.com/offlinesoftwaresolutions/eGate/releases/download/1.39/app-general-release.apk">
 <img src="https://raw.githubusercontent.com/offlinesoftwaresolutions/eGate/main/assets/download-general.svg" alt="Download General APK" width="280" />
 </a>
 
 <br><br>
 
-<a href="https://github.com/offlinesoftwaresolutions/eGate/releases/download/1.38/app-external_accessibility-release.apk">
+<a href="https://github.com/offlinesoftwaresolutions/eGate/releases/download/1.39/app-external_accessibility-release.apk">
 <img src="https://raw.githubusercontent.com/offlinesoftwaresolutions/eGate/main/assets/download-accessibility.svg" alt="Download Accessibility APK" width="280" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/offlinesoftwaresolutions/eGate/releases/download/1.38/app-lgclassic-release.apk">
+<a href="https://github.com/offlinesoftwaresolutions/eGate/releases/download/1.39/app-lgclassic-release.apk">
 <img src="https://raw.githubusercontent.com/offlinesoftwaresolutions/eGate/main/assets/download-lgclassic.svg" alt="Download LG Classic APK" width="280" />
 </a>
 
