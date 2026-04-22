@@ -31,7 +31,7 @@
   <text x="450" y="120" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="url(#accent)">Offline MDM for Android</text>
   <!-- version pill -->
   <rect x="390" y="140" width="120" height="26" rx="13" fill="#2ea44f" opacity="0.15"/>
-  <text x="450" y="158" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#4ade80">Version 1.38</text>
+  <text x="450" y="158" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#4ade80">Version 1.39</text>
   <!-- tagline -->
   <text x="450" y="205" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#94a3b8">One-time purchase. No subscriptions. No cloud. Full device control.</text>
   <!-- pills -->
