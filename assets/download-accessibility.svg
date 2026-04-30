@@ -12,7 +12,7 @@
     <path d="M4 12h16M12 12v10M8 22l4-5 4 5" stroke="#a78bfa" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
   <text x="55" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="white">Accessibility APK</text>
-  <text x="55" y="59" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b">Android  &#8226;  v1.38</text>
+  <text x="55" y="59" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#64748b">Android  &#8226;  v1.40</text>
   <text x="20" y="95" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#94a3b8">eGate build with external</text>
   <text x="20" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#94a3b8">accessibility service support.</text>
   <rect x="20" y="164" width="100" height="8" rx="4" fill="#a78bfa" opacity="0.1"/>
