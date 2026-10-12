@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "solutions.offlinesoftware",
+    "module": "egate-push-sdk",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.5.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "egate-push-sdk-1.0.0.aar",
+          "url": "egate-push-sdk-1.0.0.aar",
+          "size": 31898,
+          "sha512": "a7edb98a3fbc8e553c5b32ecf9c68f5213df7d964070860348c1e84674b930844a4cbe77219f3d5e426891ddaee1de4d0c8f3fc369531b950b7164339a724669",
+          "sha256": "bf5613951053be8543477ef9571bb8623fa8c65dde3c789c4a15cb86136d1c24",
+          "sha1": "a1e3c3c57bb48eb4cbf738c11f9137c989f32d1e",
+          "md5": "09b9c9929f50f68d6a6fa897bfc9ccf2"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "egate-push-sdk-1.0.0.aar",
+          "url": "egate-push-sdk-1.0.0.aar",
+          "size": 31898,
+          "sha512": "a7edb98a3fbc8e553c5b32ecf9c68f5213df7d964070860348c1e84674b930844a4cbe77219f3d5e426891ddaee1de4d0c8f3fc369531b950b7164339a724669",
+          "sha256": "bf5613951053be8543477ef9571bb8623fa8c65dde3c789c4a15cb86136d1c24",
+          "sha1": "a1e3c3c57bb48eb4cbf738c11f9137c989f32d1e",
+          "md5": "09b9c9929f50f68d6a6fa897bfc9ccf2"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "egate-push-sdk-1.0.0-sources.jar",
+          "url": "egate-push-sdk-1.0.0-sources.jar",
+          "size": 15760,
+          "sha512": "e0a9c26a958abf138ec4b7fca72d25160eb61fb9e6bf82353e30f9f566596a987af0f7fbe39772e505575169b731983049a70aa8f5313be27f04254459bb2dc6",
+          "sha256": "05916e869c1fda190623fd5d934ad64f2457cceafcd76975b990a9415cf17155",
+          "sha1": "26af0d88663089c4c415b58938b88d0e3bec5210",
+          "md5": "ec896f33b4a0554cf91410da0ec4898e"
+        }
+      ]
+    }
+  ]
+}
